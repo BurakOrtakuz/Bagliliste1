@@ -1,0 +1,4 @@
+-Veri.txt dosyası doc klasörünün altında bulunmaktadır. 
+-Veri.txt içide negatif sayı girmeyiniz.
+-Veri.txt dosyasının sonunda veya arasında boş satır bırakmayınız.
+-Veri.txt içine türkçe karakter girmeyiniz.
